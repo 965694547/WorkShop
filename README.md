@@ -1,4 +1,4 @@
 # WorkShop
 
 ## Pycharm
-You can use {Pycharm} to crack Pycharm
+You can use **Pycharm** to crack Pycharm
