@@ -3,6 +3,9 @@
 ## Pycharm
 You can use **Pycharm** to crack Pycharm.
 
+## Latex
+You can use **Latex.pdf** to learn about Latex.
+
 ## Pytorch
 You can use [Pytorch](https://download.pytorch.org/whl/torch_stable.html) to download Pytorch.
 
