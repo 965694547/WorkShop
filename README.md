@@ -1,7 +1,7 @@
 # WorkShop
 
 ## Pycharm
-You can use **Pycharm** to crack Pycharm.
+You can use **Pycharm** or [Pycharm](https://key.words.run/cn/) to crack Pycharm.
 
 ## Latex
 You can use **Latex.pdf** to learn about Latex.
