@@ -31,7 +31,11 @@ You can use [MFA](https://github.com/965694547/Montreal-Forced-Aligner) to downl
 [Trending Research](https://paperswithcode.com/)
 [低调奋进](http://yqli.tech/page/tts_paper.html#row-4)
 
+## VPN
+[10 / mounth](https://www.mjjloc.com/sites/1309.html)
+[14 / 130G](https://mojie.me/#/dashboard)
+
 ## Others
 [Zenodo](https://zenodo.org/login/?next=https%3A%2F%2Fzenodo.org%2Fdeposit%2F4768738)
 [DeepLearningBook](https://discoverml.github.io/simplified-deeplearning/)
-[VPN](https://www.mjjloc.com/sites/1309.html)
+
