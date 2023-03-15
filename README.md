@@ -30,6 +30,7 @@ You can use [MFA](https://github.com/965694547/Montreal-Forced-Aligner) to downl
 ## Paper
 [Trending Research](https://paperswithcode.com/)
 [低调奋进](http://yqli.tech/page/tts_paper.html#row-4)
+[Hugging Face](https://huggingface.co/)
 
 ## VPN
 [10 / mounth](https://www.mjjloc.com/sites/1309.html)
